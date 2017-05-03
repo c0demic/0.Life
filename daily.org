@@ -1,0 +1,7 @@
+#+TITLE: Daily Life
+#+AUTHOR: Lixin Yu
+#+LATEX: \newpage
+
+* 20170503
+This is Lingzhi's birthday, and this birthday is big so I bought a cake and a lapiz lazuli for her using $80000.
+
