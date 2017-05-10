@@ -5,3 +5,21 @@
 * 20170503
 This is Lingzhi's birthday, and this birthday is big so I bought a cake and a lapiz lazuli for her using $80000.
 
+* 20170507
+** offlineimap						 :software:mail:imap:
+*** certification			     :openssl:software:mail:cryption:
+use openssl to generate certification code as follows:
+openssl s_client -crlf -connect imap.gmail.com:993
+openssl s_client -connect smtp.gmail.com:465 -crlf
+** mu				 :mail:client:core:software:enchancement:cli:
+The information is documented in tools/Mu bookmark folder
+*** mu4e			    :emacs:mail:client:enchancement:software:
+this is contained in mu and be called by emacs. In .emacs file, you need to add (require 'mu4e) to activate it.
+*** TODO mu4e-multi	      :software:enchancement:emacs:plugins:work:mail:
+Work with mu4e's multi-users function and the settings would be very helpful if you get used to it.
+Not installed yet.
+* 20170508
+做事情是一个过程，学会把事情做完是一件很重要的事情，需要从小培养。把每件事情做完是这样一个概念，除了要完成的目标之外并不改变其他状态。比方说工作和休息，每天睡醒后开始工作，工作累了晚上需要睡觉，第二天早上起来后除了前一天的工作被完成了一些，你又回到了和昨天早上基本一样的状态。这就是完成了一个循环。
+太极图是一个很有趣的东西。很好的表述了一个“完整”的概念。阴阳分别代表一个事情的两个部分，可以作为开始和结束。最开始如果两者互相不相关，那么每进行一个循环，阴阳就互相交换自己的一部分给对方，就像阴阳鱼的眼睛一样，实际上这是一个很形象的象征。所以每学习一个部分就需要思考，思考后将学习到的东西内化后，你带走了知识的一部分，自己变成了携带了知识的自己。反复这个过程就是自我进化的过程。人生就是反复重复这样一个过程，乐趣也就在这样一个过程，不变中又在变化。
+
+
